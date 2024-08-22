@@ -1,0 +1,19 @@
+[{
+  "name": "Royal Elementor Addons and Templates",
+  "slug": "royal-elementor-addons",
+  "required": false,
+  "force_activation": false
+},
+{
+  "name": "Unlimited Elements For Elementor",
+  "slug": "unlimited-elements-for-elementor",
+  "required": false,
+  "force_activation": false
+},
+{
+  "name": "Elementor",
+  "slug": "elementor",
+  "required": false,
+  "force_activation": false
+}
+]
